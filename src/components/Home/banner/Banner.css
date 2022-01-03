@@ -1,0 +1,40 @@
+.banner {
+    background-color: #eeeeee;
+}
+.banner-left h1 {
+    font-size: 75px;
+}
+.banner-left p {
+    font-size: 25px;
+}
+.search {
+    border: 3px solid rgb(105, 105, 105);
+    background-color: white;
+    padding: 5px;
+    border-radius: 50px;
+    width: 80%;
+}
+.search input {
+    width: 74%;
+    height: 50px;
+    border: none;
+    background-color: transparent;
+    border-radius: 50px;
+    padding-left: 10px;
+    margin-right: 1%;
+    font-size: 20px;
+    outline: none;
+}
+.search button {
+    width: 25%;
+    height: 50px;
+    background-color: rgb(255, 92, 92);
+    border-radius: 50px;
+    font-size: 20px;
+    color: white;
+}
+.bnr-btm {
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+}

@@ -1,0 +1,13 @@
+.nav-title {
+    color: #EA4343;
+}
+.navbar {
+    background-color: #252525 !important;
+}
+.nav-link {
+    transition: 0.3s;
+}
+.nav-link:hover {
+    background-color: #2b2b2b;
+    transform: scale(1.2);
+}

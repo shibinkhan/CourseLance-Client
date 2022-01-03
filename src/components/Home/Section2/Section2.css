@@ -1,0 +1,46 @@
+.sec2r1 {
+    background-color: #DD246E;
+}
+.sec2r2 {
+    background-color: #00C0A6;
+}
+.sec2r3 {
+    background-color: #1162FC;
+}
+.sec2r {
+    border-radius: 10px;
+    text-align: center;
+}
+.sec2r h5 {
+    font-size: 40px;
+}
+.sec2l p {
+    color: rgb(255, 92, 92);
+    margin-bottom: 20px;
+}
+.sec2l h1 {
+    font-size: 40px;
+}
+.letUsHelp {
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.letUsHelp h4 {
+    font-size: 25px;
+}
+.letUsHelp p {
+    font-size: 35px;
+}
+.letUsHelp button {
+    background-color: rgb(255, 92, 92);
+    border-radius: 10px;
+    padding: 20px 50px;
+    color: white;
+    display: block;
+}
+
+@media only screen and (max-width: 1030px) {
+  .sec2r h5 {
+    font-size: 40px;
+}
+}
