@@ -1,0 +1,22 @@
+.contact {
+    min-height: 100vh;
+    font-size: 18px;
+    background-color: #dfdfdf;
+}
+.contactTop {
+    text-align: center;
+}
+.contactTop h1 {
+    color: #EA4343;
+}
+.contactLeft h2 {
+    color: #EA4343;
+}
+.contactLeftP {
+    font-size: 20px;
+}
+.form-control {
+    border: none;
+    min-height: 50px;
+    color: #EA4343;
+}

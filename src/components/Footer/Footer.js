@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <div className='footer pt-5 pb-3'>
             <div className='container'>
-                <div className='row'>
+                <div className='row ftr-main'>
                     <div className='col-md-6 d-flex justify-content-center align-items-center pb-5 pb-md-0'>
                         <div>
                             <h1 className='fs-1'>Course Lance</h1>
@@ -25,7 +25,7 @@ const Footer = () => {
                         <NavLink className="footerNav" to="/"><span className="">About</span></NavLink>
                         <NavLink className="footerNav" to="/"><span className="">Blogs</span></NavLink>
                     </div>
-                    <div className='col-6 col-md-2'>
+                    <div className='col-6 col-md-2 mb-3'>
                         <h2 className='mb-3 fw-bold'>Address</h2>
                         <h5>Phone</h5>
                         <p className='mb-3'>+01971134573</p>
@@ -36,7 +36,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <p className='text-center mt-5'>© Course Lance 2022. Rights reserved by team128</p>
+                <p className='text-center mt-3'>© Course Lance 2022. Rights reserved by team128</p>
             </div>
         </div>
     );

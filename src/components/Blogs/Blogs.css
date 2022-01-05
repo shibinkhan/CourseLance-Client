@@ -1,0 +1,39 @@
+.blogs {
+    font-size: 20px;
+    background-color: #e0e0e0;
+    min-height: 90vh;
+}
+.blog {
+    min-height: 90vh;
+}
+.blogcart {
+    border: none;
+    transition: 0.4s;
+}
+.blogcart:hover {
+    transform: scale(1.075);
+}
+.img-div {
+    overflow: hidden;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.read-now {
+    background-color: #df3f3f;
+    border: 3px solid transparent;
+    margin-right: 10px;
+    padding: 5px 20px;
+    border-radius: 7.5px;
+    color: white;
+    transition: 0.4s;
+    font-weight: 600;
+}
+.read-now:hover {
+    background-color: transparent;
+    border: 3px solid #EA4343;
+    transform: scale(1.05);
+    color:black;
+}
+.color {
+    color: #EA4343;
+}

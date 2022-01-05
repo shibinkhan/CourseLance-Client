@@ -1,0 +1,38 @@
+.about-main {
+    min-height: 85vh;
+}
+.aboutUs-main {
+    margin: 0px;
+}
+.about-title {
+    font-size: 75px;
+}
+.aboutUs {
+    text-align: left;
+}
+.aboutUs p {
+    font-size: 18px;
+}
+.about-img {
+    border-radius: 10px;
+}
+.aboutUs2 {
+    text-align: left;
+    font-size: 18px;
+    margin: 0px;
+}
+.aboutus3 {
+    background-color: rgb(236, 236, 236);
+}
+.aboutUs2 h4 {
+    font-weight: 700;
+}
+
+/* privacy */
+.privacyMain {
+    background-color: rgb(236, 236, 236);
+}
+.privacy {
+    max-width: 90%;
+    font-size: 18px;
+}
